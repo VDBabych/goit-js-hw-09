@@ -2,7 +2,7 @@
   "name": "goit-js-hw-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VDbabych.github.io/goit-js-hw-09",
+  "homepage": "https://VDBabych.github.io/goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /gitgoit-js-hw-09/"
